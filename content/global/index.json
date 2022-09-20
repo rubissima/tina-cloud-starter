@@ -3,7 +3,7 @@
     "icon": {
       "color": "orange",
       "style": "float",
-      "name": "tina"
+      "name": "aperture"
     },
     "color": "default",
     "nav": [
@@ -34,5 +34,10 @@
     "font": "sans",
     "icon": "boxicon",
     "darkMode": "system"
-  }
+  },
+  "_collection": "global",
+  "_keepTemplateKey": false,
+  "_template": "global",
+  "_relativePath": "index.json",
+  "_id": "content/global/index.json"
 }
